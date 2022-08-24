@@ -1,9 +1,0 @@
-Team 2
-
-1. Adithyan Sukumar (CB.EN.U4AIE19004)
-2. Anirudh Vadakedath (CB.EN.U4AIE19008)
-3. Arjun Anil (CB.EN.U4AIE19012)
-4. Rajath Rajesh (CB.EN.U4AIE19051)
-
-The code can be found here in different versions, the main versions have been downloaded and uploaded: https://www.kaggle.com/code/anirudhvadakedath/fasttext-microblog?scriptVersionId=94631476
-and the dataset here: https://www.kaggle.com/datasets/anirudhvadakedath/nlp-s6-proj-data
